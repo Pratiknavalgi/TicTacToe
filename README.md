@@ -1,0 +1,3 @@
+# TicTacToe
+a game in which two players alternately put two colours of circles in one of the compartments of a square grid of nine spaces;
+An unbeatable game of Tic Tac Toe. This tic-tac-toe game was developed using intellij idea, the official integrated development environment for Google's Android operating system. The game itself allows two humans which colours are(black player o and blue player O) to compete again each other. The layout is very simple. A 9 square grid, where player black O and  black player O compete against each other. Whenever there is a draw or someone wins, the game displays which player won along with the option to play the game again.
